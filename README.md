@@ -1,1 +1,2 @@
-a simple calculater, My first project
+a simple calculater wiht python, My first project
+open "project.py"
